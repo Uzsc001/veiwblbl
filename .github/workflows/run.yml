@@ -1,7 +1,7 @@
 name: run
 on:
   schedule:
-    - cron: '57 15 * * *'
+    - cron: '55 15 * * *'
   push:
     branches: [main]
 jobs:
